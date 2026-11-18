@@ -6,8 +6,8 @@ Paquetes de recursos utilizados por el servidor Vharys.
 
 Incluye GUI steampunk 256x256 compatible con Minecraft 26.3, iconos de dominio, inventario, hotbar y medallas de faccion.
 
-- Archivo: [`packs/GVGameplay-26.3.zip`](packs/GVGameplay-26.3.zip)
-- URL directa: `https://raw.githubusercontent.com/Ramses5946/recursos-server-vharys/main/packs/GVGameplay-26.3.zip`
+- Archivo: [`packs/GVGameplay-26.3-r2.zip`](packs/GVGameplay-26.3-r2.zip)
+- URL directa: `https://raw.githubusercontent.com/Ramses5946/recursos-server-vharys/main/packs/GVGameplay-26.3-r2.zip`
 - SHA-1: `22a2c4ac0b44e814d9a49cdba89d87a125778a61`
 - Minecraft Java: 26.3
 
